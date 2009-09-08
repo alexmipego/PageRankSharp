@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageRankSharp", "PageRankSharp\PageRankSharp.csproj", "{A71F6B3C-38DC-4D3A-8878-99A1179C628C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageRankSharpConsole", "PageRankSharpConsole\PageRankSharpConsole.csproj", "{3E5748A2-4F8F-41A3-8E5E-1B59438CACF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A71F6B3C-38DC-4D3A-8878-99A1179C628C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A71F6B3C-38DC-4D3A-8878-99A1179C628C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A71F6B3C-38DC-4D3A-8878-99A1179C628C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A71F6B3C-38DC-4D3A-8878-99A1179C628C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E5748A2-4F8F-41A3-8E5E-1B59438CACF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E5748A2-4F8F-41A3-8E5E-1B59438CACF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E5748A2-4F8F-41A3-8E5E-1B59438CACF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E5748A2-4F8F-41A3-8E5E-1B59438CACF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
